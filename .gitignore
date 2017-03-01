@@ -4,3 +4,4 @@ greeter/greeter.js.map
 dist
 node_modules/
 out/
+bundle.*
