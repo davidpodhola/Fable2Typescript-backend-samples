@@ -2329,4 +2329,4 @@ function add(x, y) {
 
 export { classNames, Router, Util, Todo, TodoModel, ESCAPE_KEY, ENTER_KEY, ALL_TODOS, ACTIVE_TODOS, COMPLETED_TODOS, TodoItem, TodoFooter, TodoApp, model, render$1 as render, add };
 
-//# sourceMappingURL=bundle.js.map
+//# sourceMappingURL=fable.js.map
