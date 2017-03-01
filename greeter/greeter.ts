@@ -1,8 +1,9 @@
-import { add } from "../out/fable"
+import { add, TodoApp } from "../out/react-todomvc"
 
 class Greeter {
     constructor(public greeting: string) { }
     greet() {
+        let three = add(1,2);
         return "<h1>" + this.greeting + "</h1>";
     }
 };
