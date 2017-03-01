@@ -4,7 +4,6 @@
     "build": "node node_modules/fable-compiler"
   },
   "dependencies": {
-    "fable-compiler": "^0.7.34",
     "fable-core": "^0.7.25",
     "fable-powerpack": "^0.0.19",
     "fable-react": "^0.8.0",
@@ -16,5 +15,10 @@
     "isomorphic-fetch": "^2.2.1",
     "mocha": "^3.2.0",
     "serve-static": "^1.11.1"
-  }  
+  },
+  "devDependencies": {
+    "fable-compiler": "^0.7.34",
+    "source-map-loader": "^0.1.5",
+    "webpack": "^1.13.2"
+  }
 }
