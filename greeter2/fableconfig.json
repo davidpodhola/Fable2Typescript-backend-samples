@@ -1,0 +1,7 @@
+{
+    "projFile": "./fable/lib.fsx",
+    "sourceMaps": true,
+    "module" : "es2015",
+    "ecma" : "es2015",
+    "outDir": "./out"
+}
