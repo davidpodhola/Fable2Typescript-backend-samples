@@ -4,7 +4,7 @@ class Greeter {
     constructor(public greeting: string) { }
     greet() {
         let three = add(1,2);
-        return "<h1>" + this.greeting + "</h1>";
+        return "<h1>" + this.greeting + " " + three + "</h1>";
     }
 };
 
