@@ -1,3 +1,5 @@
+import { add } from "../out/fable"
+
 class Greeter {
     constructor(public greeting: string) { }
     greet() {
