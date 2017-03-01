@@ -1,4 +1,4 @@
-import { add, TodoApp } from "../out/react-todomvc"
+import { add } from "./out/lib"
 
 class Greeter {
     constructor(public greeting: string) { }

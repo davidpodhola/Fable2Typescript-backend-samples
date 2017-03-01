@@ -2,3 +2,5 @@ debug.log
 greeter/greeter.js
 greeter/greeter.js.map
 dist
+node_modules/
+out/
